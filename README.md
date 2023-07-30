@@ -1,2 +1,2 @@
 # JS-Assignment-2
-This is my JS Assignment.
+This is my JS Assignment..
